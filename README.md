@@ -1,2 +1,2 @@
-# bitzenbu-support
+# Bitzenbu Support
 Bitzenbu support page
