@@ -9,6 +9,7 @@ assignees: tsuz
 <!--
 
 Before creating this ticket,
+- please update this to the latest version of the app and confirm the bug still exists
 - please reproduce the bug in your app and report within the app -> That will help us reproduce the issue more accurately
 - please search whether this is already ticketed. -> If that is the case, please add thumbs up emoji on that ticket to show that you need it fixed.
 
@@ -34,6 +35,20 @@ If you have a screnshot (with annotation) or a video of what you expect, that wo
 If you have a screnshot (with annotation) or a video of what you expect, that would help us expedite this process.
 
 -->
+
+### What are the reproduce steps?
+
+<!--
+ Include whether this is iOS or Android.
+-->
+
+1.
+2.
+3.
+4.
+5.
+6. 
+
 
 ### What can you currently not achieve because of this bug?
 
