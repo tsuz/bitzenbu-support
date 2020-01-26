@@ -10,12 +10,12 @@ assignees: tsuz
 
 Before creating this ticket, please search whether this is already ticketed.
 If that is the case, please add thumbs up emoji on that ticket to show that you need it.
-If it's not documented, please answer the below questions clearly. Not answering it in depth will require
-If the questions below are not answered clearly, it can be closed right away.
+If it's not documented, please answer the below questions clearly. 
+If the questions below are not answered clearly, it can delay the process.
 
 -->
 
-## Feature Request
+## 🚀 Feature Request
 
 ### What is the feature you want to see in Bitzenbu?
 
