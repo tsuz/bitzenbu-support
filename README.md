@@ -13,9 +13,11 @@ Bitzenbu support page
 - View each symbol grouped by exchanges
 - Sort balances by name, value, and change
 
-## 🔔 Feature Requests
+## 🎟️ Ticketing
 
-For feature requests, please create a ticket [here](https://github.com/tsuz/bitzenbu-support/issues) 
+For feature requests, please create a ticket from [here](https://github.com/tsuz/bitzenbu-support/issues/new?assignees=tsuz&labels=feature+request&template=feature_request.md&title=FR%3A+%5BFEATURE+NAME%5D) 
+
+For bugs, please create a ticket from [here](https://github.com/tsuz/bitzenbu-support/issues/new?assignees=tsuz&labels=bug&template=bug_report.md&title=Bug%3A+%5Bconcise+description%5D)
 
 ## 🔒 Privacy Policy
 
